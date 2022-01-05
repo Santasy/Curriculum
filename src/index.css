@@ -1,13 +1,40 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  /* font-family: url("https://fonts.googleapis.com/css?family=Oswald"); */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-print-color-adjust: exact !important;
+  /* width: 900px; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.tamhoja {
+  width: 210mm;
+  height: 297mm;
+  /* margin: 30px; */
+}
+
+.mysection{
+  background-color: #e3dac9;
+  padding: 5px;
+  margin-right: 16px;
+}
+
+.myshadow{
+  background-color: #f2f3f4;
+  padding-left: 10px;
+  margin-right: 16px;
+}
+
+.myshadow > small{
+  padding-left: 15px;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.spaced{
+  margin: 0 20px 0 20px;
 }
