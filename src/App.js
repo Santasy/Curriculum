@@ -96,12 +96,23 @@ function App() {
     <p className="h4 mysection mt-2">Highlights</p>
 
     <div className="h5 myshadow">
-      - Práctica Profesional
+      - Práctica Profesional -
     </div>
     <div className="d-flex flex-row">
       <div className="col">
         <ul className="fw-light"><small>
           2 meses en Sociedad Concesionaria Los Lagos - Diseño de modelo tabular para la agregación de datos transaccionales.
+        </small></ul>
+      </div>
+    </div>
+
+    <div className="h5 myshadow">
+      - Participación FONDECYT (1211484) - <small>Polygon and polyhedron meshing algorithms</small>
+    </div>
+    <div className="d-flex flex-row">
+      <div className="col">
+        <ul className="fw-light"><small>
+          Participación como tesista con el escrito "W-tree - Una nueva estructura de datos dinámica para la administración de claves en memoria principal" y su integración en la experimentación de computación geométrica llevada a cabo.
         </small></ul>
       </div>
     </div>
@@ -146,20 +157,6 @@ function App() {
 
     <div className="d-flex flex-row spaced">
       <div className="col-3">
-        <p className="h6">Clases particulares (extraoficiales)</p>
-      </div>
-      <div className="col" style={{ textAlign: "justify" }}>
-        <ul className="fw-light"><small>
-          <li>
-            Más de 4 años de experiencia en tutorías de materias básicas en diversos lenguajes,
-            incluyendo desarrollo web y manejo de base de datos.
-          </li>
-        </small></ul>
-      </div>
-    </div>
-
-    <div className="d-flex flex-row spaced">
-      <div className="col-3">
         <p className="h6">Representación estudiantil</p>
       </div>
       <div className="col" style={{ textAlign: "justify" }}>
@@ -180,8 +177,7 @@ function App() {
       </div>
       <div className="col" style={{ textAlign: "justify" }}>
         <ul className="fw-light"><small>
-          <li>Licenciado en Enseñanza Media del liceo Salesiano de Puerto Montt,
-            con especialidad Humanista.</li>
+          <li>Licenciado en Enseñanza Media Humanista del liceo Salesiano de Puerto Montt.</li>
           <li>Disfruto de la lectura pesada si mi organización lo permite.</li>
           <li>Toco guitarra eléctrica desde hace más de 6 años; usuario de una Jackson de 7 cuerdas.</li>
         </small></ul>
