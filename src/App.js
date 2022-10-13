@@ -76,7 +76,7 @@ function App() {
           <li>Variada experiencia en Desarrollo Web con TypeScript, React y NodeJs,
             además de otras como Java (JSP) y PHP
           </li>
-          <li>Experiencia en uso de Docker, Jenkins, RabbitMQ, MongoDB y GraphQL</li>
+          <li>Experiencia en uso de Flutter, Docker, Jenkins, RabbitMQ y MongoDB</li>
         </small></ul>
       </div>
       <div className="col">
@@ -178,8 +178,7 @@ function App() {
       <div className="col" style={{ textAlign: "justify" }}>
         <ul className="fw-light"><small>
           <li>Licenciado en Enseñanza Media Humanista del liceo Salesiano de Puerto Montt.</li>
-          <li>Disfruto de la lectura pesada si mi organización lo permite.</li>
-          <li>Toco guitarra eléctrica desde hace más de 6 años; usuario de una Jackson de 7 cuerdas.</li>
+          <li>Guitarrista eléctrico desde hace más de 6 años, con una Jackson de 7 cuerdas.</li>
         </small></ul>
       </div>
     </div>
