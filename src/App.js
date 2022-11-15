@@ -8,7 +8,7 @@ function App() {
         <p className="h1 mb-1">Sebastián Pacheco Cáceres</p>
         <p className="h5 mb-3">Ingeniero Civil Informático - UACh Valdivia</p>
         <p><small>
-          &nbsp;&nbsp;Me interesa conocer, aprender y crear. Durante mis estudios me interesé por la Computación de Alto Rendimiento (HPC), y me llevó a ingresar, en modalidad de vinculación, a un magister en la UACh sobre Algoritmos, HPC y Ciencia de los Datos. Egresé de pregrado en Octubre de 2022, y egresaré de magister en el primer semestre de 2023. Actualmente tengo 24 años.
+          &nbsp;&nbsp;Me interesa conocer, aprender y crear. Durante mis estudios me interesé por la Computación de Alto Rendimiento (HPC), y me llevó a ingresar, en modalidad de vinculación, a un magister en la UACh sobre Algoritmos, HPC y Ciencia de los Datos. Egresé de pregrado en octubre de 2022, aprobando mi defensa de tesis en noviembre con máxima distinción. Egresaré de magister en el primer semestre de 2023. Actualmente tengo 24 años.
           <br></br>
 
           &nbsp;&nbsp;Participé de diversas instancias universitarias, como ayudantías y cargos representativos. Todos plantearon desafios personales e interpersonales que me motivaron en el buen uso del conocimiento y la creatividad en la búsqueda del bienestar colectivo.
